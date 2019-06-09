@@ -1,0 +1,5 @@
+<map id="AudioMixer::setMusicVolume" name="AudioMixer::setMusicVolume">
+<area shape="rect" id="node2" href="$class_audio_mixer.html#aaff2ce84f3b16a3b368469a5753c5f82" title="AudioMixer::AudioMixer" alt="" coords="257,5,428,32"/>
+<area shape="rect" id="node3" href="$tests_2engine_2_audio_mixer_8cxx.html#a4ade3761f638295c1626a54bfebc64d8" title="TEST_CASE" alt="" coords="295,56,390,83"/>
+<area shape="rect" id="node4" href="$tests_2engine_2_audio_mixer_8cxx.html#a88a4ca7b66d476ec1c8172d6467e3b2f" title="SCENARIO" alt="" coords="299,107,387,133"/>
+</map>

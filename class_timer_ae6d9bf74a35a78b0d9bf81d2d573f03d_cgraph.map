@@ -1,0 +1,5 @@
+<map id="Timer::loopTimer" name="Timer::loopTimer">
+<area shape="rect" id="node2" href="$class_timer.html#ab887910601a1a42b2549c99892653921" title="Timer::checkTimeout" alt="" coords="183,42,337,69"/>
+<area shape="rect" id="node3" href="$class_timer.html#ab16249c34c11718cc8e99ff83a3febbc" title="get elapsed time since last timeOut Returns the time in milliseconds, that has passed since the last ..." alt="" coords="385,5,588,47"/>
+<area shape="rect" id="node4" href="$class_timer.html#a63f0eb44b27402196590a03781515dba" title="Timer::stop" alt="" coords="439,71,534,98"/>
+</map>

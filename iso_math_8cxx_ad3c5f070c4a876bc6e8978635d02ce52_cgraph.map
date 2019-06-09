@@ -1,0 +1,5 @@
+<map id="convertScreenToIsoCoordinates" name="convertScreenToIsoCoordinates">
+<area shape="rect" id="node2" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="486,5,641,47"/>
+<area shape="rect" id="node3" href="$class_map.html#a4619fa631a0082754a92f1d3a8530bba" title="Returns the node at given screencoordinates. " alt="" coords="276,75,428,102"/>
+<area shape="rect" id="node4" href="$iso_math_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="476,101,651,127"/>
+</map>

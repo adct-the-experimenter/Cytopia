@@ -1,0 +1,7 @@
+<map id="Engine::newGame" name="Engine::newGame">
+<area shape="rect" id="node2" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="191,5,341,47"/>
+<area shape="rect" id="node3" href="$class_map.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="215,71,317,98"/>
+<area shape="rect" id="node4" href="$class_map_layers.html#a54ce1eeef2a8998a728ac7074efe8787" title="Enable Drawing Layer Enable Drawing Layer (use bitwise OR to add layer) " alt="" coords="398,42,575,69"/>
+<area shape="rect" id="node5" href="$class_terrain_generator.html#adcc251757a1f3a06471a49f17886b8ce" title="TerrainGenerator::generate\lTerrain" alt="" coords="389,93,584,135"/>
+<area shape="rect" id="node6" href="$class_terrain_generator.html#ac94cfaeb9dc89453018399361da5174a" title="TerrainGenerator::loadTerrain\lDataFromJSON" alt="" coords="632,93,839,135"/>
+</map>

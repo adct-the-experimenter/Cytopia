@@ -1,0 +1,8 @@
+<map id="Complex::Complex" name="Complex::Complex">
+<area shape="rect" id="node2" href="$struct_complex.html#a1041d65f0752fbee909254e0bc245fef" title="Complex::operator+" alt="" coords="196,5,348,32"/>
+<area shape="rect" id="node3" href="$struct_complex.html#a8e6f1ef3a38ade1fd2937e831a67287a" title="Complex::operator&#45;" alt="" coords="199,56,345,83"/>
+<area shape="rect" id="node4" href="$struct_complex.html#ab58f3edb4c5ed3dd7d1f4bc23dce3095" title="Complex::operator*" alt="" coords="198,107,346,133"/>
+<area shape="rect" id="node5" href="$struct_complex.html#a9493a8fcf4341aa99f089967585f149d" title="Complex::operator/" alt="" coords="199,157,345,184"/>
+<area shape="rect" id="node6" href="$struct_complex.html#a934359156ad8d2130203f4afa54396a3" title="Complex::get_ir" alt="" coords="211,208,333,235"/>
+<area shape="rect" id="node7" href="$struct_complex.html#af1ad9fa07f0886c08fc2d60fd2fd5fe0" title="Complex::set_ir" alt="" coords="396,233,517,260"/>
+</map>

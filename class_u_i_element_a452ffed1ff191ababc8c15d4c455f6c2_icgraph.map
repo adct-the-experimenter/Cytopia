@@ -1,0 +1,9 @@
+<map id="UIElement::setTextureID" name="UIElement::setTextureID">
+<area shape="rect" id="node2" href="$class_u_i_element.html#a9c4439b91bcb765d0616616fbfe2a44a" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="246,5,441,32"/>
+<area shape="rect" id="node3" href="$class_u_i_manager.html#ae408c7d3e00cf7f9b64627d0e69cf31b" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="507,23,700,65"/>
+<area shape="rect" id="node5" href="$class_menu_group_build.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="228,107,459,133"/>
+<area shape="rect" id="node6" href="$class_game.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="275,157,411,184"/>
+<area shape="rect" id="node4" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="748,31,979,57"/>
+<area shape="rect" id="node7" href="$src_2main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="542,157,665,184"/>
+<area shape="rect" id="node8" href="$src_2main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="836,157,891,184"/>
+</map>

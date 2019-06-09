@@ -1,0 +1,9 @@
+<map id="MapNode::MapNode" name="MapNode::MapNode">
+<area shape="rect" id="node2" href="$class_map_node.html#a397a62e9263feef6c9c85b4e17ef31cb" title="MapNode::setTileID" alt="" coords="205,122,351,149"/>
+<area shape="rect" id="node3" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="411,5,586,47"/>
+<area shape="rect" id="node4" href="$class_map_node.html#a0af11cf90ab29c77b05d09da63a3bb33" title="MapNode::getTileData" alt="" coords="417,71,581,98"/>
+<area shape="rect" id="node5" href="$class_tile_manager.html#a0635992377296446c67c5d41b48e8826" title="TileManager::getTileData" alt="" coords="409,122,589,149"/>
+<area shape="rect" id="node7" href="$class_tile_manager.html#a519b2d5c91877025a2faa0dff3ba099c" title="TileManager::calculateSlope\lOrientation" alt="" coords="399,173,599,215"/>
+<area shape="rect" id="node8" href="$class_tile_manager.html#ae1ac0c18d79cc2e1de86416d07d1591b" title="TileManager::calculateTile\lOrientation" alt="" coords="406,239,591,280"/>
+<area shape="rect" id="node6" href="$namespacegw.html#a08d2b477e040c28d652a649fa7f563e9" title="gw::id" alt="" coords="647,122,704,149"/>
+</map>

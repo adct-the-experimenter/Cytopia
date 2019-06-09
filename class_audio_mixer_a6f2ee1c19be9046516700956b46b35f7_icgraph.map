@@ -1,0 +1,7 @@
+<map id="AudioMixer::playMusic" name="AudioMixer::playMusic">
+<area shape="rect" id="node2" href="$tests_2engine_2_audio_mixer_8cxx.html#a882f2b94c338426fe511e86d23ab4e78" title="TEST_CASE" alt="" coords="216,5,311,32"/>
+<area shape="rect" id="node3" href="$tests_2engine_2_audio_mixer_8cxx.html#a51e85d3e0aa265ee7eaf02a29a4cf5dc" title="SCENARIO" alt="" coords="219,56,307,83"/>
+<area shape="rect" id="node4" href="$class_game.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="218,107,309,133"/>
+<area shape="rect" id="node5" href="$src_2main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="359,107,481,133"/>
+<area shape="rect" id="node6" href="$src_2main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="529,107,584,133"/>
+</map>

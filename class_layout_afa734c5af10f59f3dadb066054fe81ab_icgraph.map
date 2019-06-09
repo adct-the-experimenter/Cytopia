@@ -1,0 +1,12 @@
+<map id="Layout::arrangeElements" name="Layout::arrangeElements">
+<area shape="rect" id="node2" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="828,24,947,51"/>
+<area shape="rect" id="node6" href="$class_u_i_manager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="242,38,477,64"/>
+<area shape="rect" id="node8" href="$class_u_i_manager.html#ac927e1cd3dea979202ea9dbf1195b583" title="UIManager::changeResolution" alt="" coords="254,139,465,166"/>
+<area shape="rect" id="node11" href="$class_u_i_manager.html#af2ffb4ee45e57152164643ef6cddda37" title="UIManager::changeFullScreenMode" alt="" coords="236,88,483,115"/>
+<area shape="rect" id="node3" href="$class_game.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="1051,24,1141,51"/>
+<area shape="rect" id="node4" href="$src_2main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1189,24,1312,51"/>
+<area shape="rect" id="node5" href="$src_2main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1360,24,1415,51"/>
+<area shape="rect" id="node7" href="$class_u_i_manager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="534,53,721,94"/>
+<area shape="rect" id="node9" href="$class_u_i_manager.html#ae408c7d3e00cf7f9b64627d0e69cf31b" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="531,132,724,173"/>
+<area shape="rect" id="node10" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="772,139,1003,166"/>
+</map>

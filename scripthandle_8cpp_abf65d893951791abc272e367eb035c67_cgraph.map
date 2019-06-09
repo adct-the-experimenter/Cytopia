@@ -1,0 +1,10 @@
+<map id="RegisterScriptHandle_Native" name="RegisterScriptHandle_Native">
+<area shape="rect" id="node2" href="$class_c_script_handle.html#a16f88649874ea1679426b577e9528c50" title="CScriptHandle::EnumReferences" alt="" coords="214,5,442,32"/>
+<area shape="rect" id="node3" href="$class_c_script_handle.html#a62fc23497b6d644c0d2312f95c028f46" title="CScriptHandle::ReleaseReferences" alt="" coords="208,56,448,83"/>
+<area shape="rect" id="node7" href="$class_c_script_handle.html#a7b233adf9ca41ac1bd1d7e1a550ec247" title="CScriptHandle::Cast" alt="" coords="253,107,403,133"/>
+<area shape="rect" id="node8" href="$class_c_script_handle.html#a28086975d4fdc54bf489c528aad5b25e" title="CScriptHandle::Assign" alt="" coords="247,157,409,184"/>
+<area shape="rect" id="node9" href="$class_c_script_handle.html#a83ed702c3950f99381451ee217ace50c" title="CScriptHandle::Equals" alt="" coords="247,208,409,235"/>
+<area shape="rect" id="node4" href="$class_c_script_handle.html#a267343c8ec222b714de6deb47a2d39e7" title="CScriptHandle::Set" alt="" coords="496,107,639,133"/>
+<area shape="rect" id="node5" href="$class_c_script_handle.html#adc970bede7a56d5375ef9c984259cd69" title="CScriptHandle::ReleaseHandle" alt="" coords="687,81,901,108"/>
+<area shape="rect" id="node6" href="$class_c_script_handle.html#abf6ba97d329f49ce21cfffcd194a496a" title="CScriptHandle::AddRefHandle" alt="" coords="689,132,899,159"/>
+</map>

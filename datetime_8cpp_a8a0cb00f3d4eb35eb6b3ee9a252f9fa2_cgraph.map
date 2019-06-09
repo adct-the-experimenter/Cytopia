@@ -1,0 +1,11 @@
+<map id="RegisterScriptDateTime" name="RegisterScriptDateTime">
+<area shape="rect" id="node2" href="$scripthandle_8cpp.html#a3fd241a2dfddeb98fe97625aa25b4d61" title="Construct" alt="" coords="269,5,353,32"/>
+<area shape="rect" id="node3" href="$class_c_date_time.html#aa30b0591e4623c339af21b3147242b33" title="CDateTime::getYear" alt="" coords="237,56,385,83"/>
+<area shape="rect" id="node4" href="$class_c_date_time.html#abbe53bed25325cdc568a52b9131f7b70" title="CDateTime::getMonth" alt="" coords="229,107,392,133"/>
+<area shape="rect" id="node5" href="$class_c_date_time.html#abd2be03ac19cc2c88f4e1b474d3cd2ce" title="CDateTime::getDay" alt="" coords="237,157,384,184"/>
+<area shape="rect" id="node6" href="$class_c_date_time.html#a82fa7f4d35a7a933deee9c7d26580c51" title="CDateTime::getHour" alt="" coords="234,208,387,235"/>
+<area shape="rect" id="node7" href="$class_c_date_time.html#abfbbddf400e3da8785e920460ea378aa" title="CDateTime::getMinute" alt="" coords="228,259,393,285"/>
+<area shape="rect" id="node8" href="$class_c_date_time.html#aa78eda460ab0c864503c5a58c675d9c2" title="CDateTime::getSecond" alt="" coords="225,309,396,336"/>
+<area shape="rect" id="node9" href="$class_c_date_time.html#ae14c254963214c0d26e4655bfad1cd28" title="CDateTime::setDate" alt="" coords="235,360,387,387"/>
+<area shape="rect" id="node10" href="$class_c_date_time.html#a8178a5a2acc59671c8a7be2f64a71d79" title="CDateTime::setTime" alt="" coords="235,411,387,437"/>
+</map>

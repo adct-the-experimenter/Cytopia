@@ -1,0 +1,5 @@
+<map id="TileManager::getTexture" name="TileManager::getTexture">
+<area shape="rect" id="node2" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="228,5,447,47"/>
+<area shape="rect" id="node3" href="$class_resources_manager.html#a0df47a965118704fa6366053415a21c1" title="ResourcesManager::getTile\lTexture" alt="" coords="241,71,434,112"/>
+<area shape="rect" id="node4" href="$namespacegw.html#a08d2b477e040c28d652a649fa7f563e9" title="gw::id" alt="" coords="495,78,552,105"/>
+</map>

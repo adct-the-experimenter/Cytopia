@@ -1,0 +1,21 @@
+<map id="MenuGroupBuild::constructMenu" name="MenuGroupBuild::constructMenu">
+<area shape="rect" id="node2" href="$class_button_group.html#a6ea6c2ec59b6bd02e72eea5465d61c4f" title="Add a (toggle&#45;)Button object to the button group Add a Button to the group. Only toggleable buttons s..." alt="" coords="303,5,491,32"/>
+<area shape="rect" id="node3" href="$class_button_group.html#a96ffd665743b42765e883dd049ec64e7" title="ButtonGroup::getAllButtons" alt="" coords="298,56,497,83"/>
+<area shape="rect" id="node4" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1109,186,1284,227"/>
+<area shape="rect" id="node5" href="$class_tile_manager.html#a682e1364119e3e5c41e4032fe4e206e1" title="TileManager::getAllTileData" alt="" coords="300,187,495,213"/>
+<area shape="rect" id="node9" href="$class_u_i_element.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="310,237,485,264"/>
+<area shape="rect" id="node11" href="$class_button.html#a6b08fa54560842dec2eabed9a93c3103" title="Button::drawImageButtonFrame" alt="" coords="284,288,511,315"/>
+<area shape="rect" id="node14" href="$class_u_i_element.html#a440d645aa10dbf7d3c763ba6e1fc33a6" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="314,339,481,365"/>
+<area shape="rect" id="node15" href="$class_u_i_element.html#a681f08cf2aeee4c376696695227cde9b" title="Set the button mode to toggleButton Set the button mode to toggle button, which means it stays presse..." alt="" coords="298,389,497,416"/>
+<area shape="rect" id="node16" href="$class_u_i_element.html#ab14a33c04d137514d12e0707d96b3fd3" title="Set the Action ID of the UI Element. Sets the ID of the action the UI Element should execute when it&#39;..." alt="" coords="313,440,482,467"/>
+<area shape="rect" id="node17" href="$class_u_i_element.html#a902b00b3e651b2a0e33345c3dbd810d4" title="Set the Action Parameter of the UI Element. Sets the Parameter of the action the UI Element should ex..." alt="" coords="286,491,509,517"/>
+<area shape="rect" id="node20" href="$class_button_group.html#a68feb325c3ba486591ab9e33afd928bb" title="ButtonGroup::count" alt="" coords="323,541,471,568"/>
+<area shape="rect" id="node6" href="$class_tile_manager.html#a1575d9a9530e13fe0286b8fece9e47ea" title="TileManager::init" alt="" coords="611,193,737,220"/>
+<area shape="rect" id="node7" href="$namespacegw.html#a08d2b477e040c28d652a649fa7f563e9" title="gw::id" alt="" coords="921,256,978,283"/>
+<area shape="rect" id="node8" href="$class_resources_manager.html#a0a56e6316b8145494b7d551c29c41d80" title="ResourcesManager::loadTexture" alt="" coords="837,307,1061,333"/>
+<area shape="rect" id="node10" href="$class_resources_manager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="559,377,789,404"/>
+<area shape="rect" id="node12" href="$class_u_i_element.html#af7c295301e56e32f3d00081e081bc71c" title="UIElement::drawFrame" alt="" coords="591,428,757,455"/>
+<area shape="rect" id="node13" href="$class_u_i_element.html#a93e23ad405b6275a99d5f71d32232f5c" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="857,415,1041,441"/>
+<area shape="rect" id="node18" href="$class_u_i_element.html#ade4162d6216022e143c769369b64add7" title="Set the button state Sets the mouse button pressed state. " alt="" coords="563,491,785,517"/>
+<area shape="rect" id="node19" href="$class_u_i_element.html#afdf67550d4140097c7a328d4b22fc1fe" title="UIElement::changeTexture" alt="" coords="855,516,1044,543"/>
+</map>

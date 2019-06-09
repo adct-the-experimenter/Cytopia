@@ -1,0 +1,4 @@
+<map id="SCENARIO" name="SCENARIO">
+<area shape="rect" id="node2" href="$class_audio_mixer.html#a82fda31560a8c92cf6c8c04949e88a68" title="sets the sound effects volume " alt="" coords="141,5,339,47"/>
+<area shape="rect" id="node3" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="387,35,537,76"/>
+</map>

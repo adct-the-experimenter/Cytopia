@@ -1,0 +1,11 @@
+<map id="ResourcesManager::getUITexture" name="ResourcesManager::getUITexture">
+<area shape="rect" id="node2" href="$tests_2engine_2_resources_manager_8cxx.html#a081bfbbd2ab469af393714d64e4d18e9" title="TEST_CASE" alt="" coords="324,31,419,57"/>
+<area shape="rect" id="node3" href="$class_u_i_element.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="284,81,459,108"/>
+<area shape="rect" id="node4" href="$class_u_i_element.html#a9c4439b91bcb765d0616616fbfe2a44a" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="525,5,719,32"/>
+<area shape="rect" id="node5" href="$class_u_i_manager.html#ae408c7d3e00cf7f9b64627d0e69cf31b" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="785,23,979,65"/>
+<area shape="rect" id="node7" href="$class_menu_group_build.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="507,107,737,133"/>
+<area shape="rect" id="node8" href="$class_game.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="554,157,690,184"/>
+<area shape="rect" id="node6" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="1027,31,1257,57"/>
+<area shape="rect" id="node9" href="$src_2main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="821,157,943,184"/>
+<area shape="rect" id="node10" href="$src_2main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1115,157,1169,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="UIElement" name="UIElement">
+<area shape="rect" id="node2" href="$class_bar.html" title="Bar" alt="" coords="5,80,49,107"/>
+<area shape="rect" id="node3" href="$class_button.html" title="Button" alt="" coords="73,80,139,107"/>
+<area shape="rect" id="node4" href="$class_button_group.html" title="Class to group buttons and to make sure there&#39;s only one active toggle button in the group When addin..." alt="" coords="163,80,267,107"/>
+<area shape="rect" id="node5" href="$class_checkbox.html" title="Checkbox" alt="" coords="292,80,376,107"/>
+<area shape="rect" id="node6" href="$class_combo_box.html" title="ComboBox" alt="" coords="400,80,492,107"/>
+<area shape="rect" id="node7" href="$class_frame.html" title="Frame" alt="" coords="516,80,579,107"/>
+<area shape="rect" id="node8" href="$class_image.html" title="Image" alt="" coords="603,80,665,107"/>
+<area shape="rect" id="node9" href="$class_text.html" title="Text" alt="" coords="689,80,736,107"/>
+<area shape="rect" id="node11" href="$class_text_field.html" title="TextField" alt="" coords="761,80,835,107"/>
+<area shape="rect" id="node10" href="$class_tooltip.html" title="Tooltip" alt="" coords="681,155,744,181"/>
+</map>

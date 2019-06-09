@@ -1,0 +1,10 @@
+<map id="/home/travis/build/JimmySnails/Cytopia/src/engine/ui/basics/Layout.hxx" name="/home/travis/build/JimmySnails/Cytopia/src/engine/ui/basics/Layout.hxx">
+<area shape="rect" id="node2" href="$_u_i_element_8hxx.html" title="UIElement.hxx" alt="" coords="463,124,577,151"/>
+<area shape="rect" id="node4" href="$map_edit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="110,199,279,225"/>
+<area shape="rect" id="node5" href="$_resources_manager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="424,199,616,225"/>
+<area shape="rect" id="node13" href="$_window_manager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="739,199,914,225"/>
+<area shape="rect" id="node15" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="1077,199,1230,225"/>
+<area shape="rect" id="node9" href="$_tile_manager_8hxx.html" title="TileManager.hxx" alt="" coords="441,273,565,300"/>
+<area shape="rect" id="node10" href="$tile_data_8hxx.html" title="basics/tileData.hxx" alt="" coords="522,348,665,375"/>
+<area shape="rect" id="node12" href="$_singleton_8hxx.html" title="../util/Singleton.hxx" alt="" coords="773,348,915,375"/>
+</map>

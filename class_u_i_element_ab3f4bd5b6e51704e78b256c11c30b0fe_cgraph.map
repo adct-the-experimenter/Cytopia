@@ -1,0 +1,5 @@
+<map id="UIElement::drawImageButtonFrame" name="UIElement::drawImageButtonFrame">
+<area shape="rect" id="node2" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="268,5,468,47"/>
+<area shape="rect" id="node3" href="$class_window_manager.html#adebfe2299e543cd794caeb1bcb8a2233" title="get SDL Renderer Returns a pointer to the SDL Renderer " alt="" coords="263,71,473,98"/>
+<area shape="rect" id="node4" href="$class_window_manager.html#aca5cf0b17e313e312ca119ffac47c3f9" title="get SDL Window Returns a pointer to the SDL_Window " alt="" coords="267,122,469,149"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="UIElement::getButtonState" name="UIElement::getButtonState">
+<area shape="rect" id="node2" href="$class_u_i_element.html#afa1b8ca68981752ffb5e40e22ee2a946" title="Change the Texture of the button Changes the texture. " alt="" coords="257,56,467,83"/>
+<area shape="rect" id="node4" href="$class_checkbox.html#a05078cbd151f1192fc70ad2a7528aade" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="528,107,651,133"/>
+<area shape="rect" id="node6" href="$class_button.html#acfeb33328b356d4fda989808888f81db" title="Button::onMouseButtonUp" alt="" coords="266,157,458,184"/>
+<area shape="rect" id="node7" href="$class_button.html#af890652b6918d511cae071f9982c5f2b" title="Button::onMouseEnter" alt="" coords="279,208,445,235"/>
+<area shape="rect" id="node8" href="$class_button.html#a30125723c03d6f675c1ecdbfe2b6d265" title="Button::onMouseLeave" alt="" coords="277,259,447,285"/>
+<area shape="rect" id="node9" href="$class_checkbox.html#ae58c2c6329459ca23d025f1761c0c78e" title="Checkbox::onMouseButtonUp" alt="" coords="257,309,467,336"/>
+<area shape="rect" id="node10" href="$class_checkbox.html#a77988b3bf139576b2d33ce755c6bbca5" title="Checkbox::onMouseButtonDown" alt="" coords="248,360,476,387"/>
+<area shape="rect" id="node11" href="$class_checkbox.html#ae54b2346527479a073493ececaaef099" title="Checkbox::onMouseEnter" alt="" coords="270,411,454,437"/>
+<area shape="rect" id="node12" href="$class_checkbox.html#a304b657ec5d71ba0a344c4ffc3279d2f" title="Checkbox::onMouseLeave" alt="" coords="268,461,456,488"/>
+<area shape="rect" id="node13" href="$class_combo_box.html#a9e34bb39454d682c02e434bcc0aa99a4" title="ComboBox::onMouseMove" alt="" coords="266,512,458,539"/>
+<area shape="rect" id="node3" href="$class_button.html#af4d14cf544d8e0620f4ffcd7984103f7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="538,5,641,32"/>
+<area shape="rect" id="node5" href="$class_combo_box.html#a1e4e851a79fccea5a1bd69b96c3bdec7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="524,56,655,83"/>
+</map>

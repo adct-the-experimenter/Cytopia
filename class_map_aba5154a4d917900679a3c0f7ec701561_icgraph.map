@@ -1,0 +1,9 @@
+<map id="Map::increaseHeight" name="Map::increaseHeight">
+<area shape="rect" id="node2" href="$class_engine.html#aa7210df73b284c19cd6edcfa99a4532e" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="416,5,585,32"/>
+<area shape="rect" id="node7" href="$class_map.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="207,56,365,83"/>
+<area shape="rect" id="node3" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="636,31,839,57"/>
+<area shape="rect" id="node4" href="$class_game.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="887,31,977,57"/>
+<area shape="rect" id="node5" href="$src_2main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1025,31,1148,57"/>
+<area shape="rect" id="node6" href="$src_2main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1196,31,1251,57"/>
+<area shape="rect" id="node8" href="$class_engine.html#a3e87fa5bbc0de7cde5fe6092ddf21a37" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="413,56,588,83"/>
+</map>

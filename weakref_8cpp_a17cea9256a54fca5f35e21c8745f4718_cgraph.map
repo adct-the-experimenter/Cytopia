@@ -1,0 +1,6 @@
+<map id="RegisterScriptWeakRef_Native" name="RegisterScriptWeakRef_Native">
+<area shape="rect" id="node2" href="$class_c_script_weak_ref.html#afd1bf2e924767b3224f9957db14849ba" title="CScriptWeakRef::Get" alt="" coords="233,5,384,32"/>
+<area shape="rect" id="node3" href="$class_c_script_weak_ref.html#ae6bdf58513878e0666071c220503c39c" title="CScriptWeakRef::Set" alt="" coords="233,56,384,83"/>
+<area shape="rect" id="node4" href="$class_c_script_weak_ref.html#a8bc3b4c8d90a335eb7b65baff380600f" title="CScriptWeakRef::Equals" alt="" coords="223,107,394,133"/>
+<area shape="rect" id="node5" href="$class_c_script_weak_ref.html#aa0b05d7e5e984cbd8aecf9f99fd1bfd2" title="CScriptWeakRef::~CScript\lWeakRef" alt="" coords="216,158,401,199"/>
+</map>

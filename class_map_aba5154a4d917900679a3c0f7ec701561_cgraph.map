@@ -1,0 +1,7 @@
+<map id="Map::increaseHeight" name="Map::increaseHeight">
+<area shape="rect" id="node2" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="645,29,796,70"/>
+<area shape="rect" id="node3" href="$class_map.html#a05e7d896dc5062af07c9b838600a068d" title="Demolish a node Invokes the tiles demolish function. " alt="" coords="207,36,356,63"/>
+<area shape="rect" id="node4" href="$class_map_layers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="409,99,592,125"/>
+<area shape="rect" id="node5" href="$class_resources_manager.html#ad84710588e607e440931c6956a14aac7" title="ResourcesManager::getTile\lSurface" alt="" coords="404,150,597,191"/>
+<area shape="rect" id="node6" href="$namespacegw.html#a08d2b477e040c28d652a649fa7f563e9" title="gw::id" alt="" coords="692,157,749,184"/>
+</map>

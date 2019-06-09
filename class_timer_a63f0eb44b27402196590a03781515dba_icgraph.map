@@ -1,0 +1,6 @@
+<map id="Timer::stop" name="Timer::stop">
+<area shape="rect" id="node2" href="$class_timer.html#a14fa469c4c295c5fa6e66a4ad1092146" title="Timer::~Timer" alt="" coords="169,5,282,32"/>
+<area shape="rect" id="node3" href="$class_timer.html#ab887910601a1a42b2549c99892653921" title="Timer::checkTimeout" alt="" coords="148,56,303,83"/>
+<area shape="rect" id="node5" href="$class_tooltip.html#ad451a89f3aaaa61d6cef9ea4ba590c68" title="Tooltip::reset" alt="" coords="174,107,277,133"/>
+<area shape="rect" id="node4" href="$class_timer.html#ae6d9bf74a35a78b0d9bf81d2d573f03d" title="Timer::loopTimer" alt="" coords="351,56,480,83"/>
+</map>

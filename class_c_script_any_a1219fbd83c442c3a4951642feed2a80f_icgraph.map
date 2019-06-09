@@ -1,0 +1,8 @@
+<map id="CScriptAny::FreeObject" name="CScriptAny::FreeObject">
+<area shape="rect" id="node2" href="$class_c_script_any.html#a6cc41e567e9764b38da4657ab4d619a1" title="CScriptAny::operator=" alt="" coords="245,5,410,32"/>
+<area shape="rect" id="node3" href="$class_c_script_any.html#a8d17d3d97b10fda993991e3782757483" title="CScriptAny::~CScriptAny" alt="" coords="237,56,417,83"/>
+<area shape="rect" id="node4" href="$class_c_script_any.html#ad136241bde0ebda30442a84a984e96c4" title="CScriptAny::Store" alt="" coords="260,107,395,133"/>
+<area shape="rect" id="node7" href="$class_c_script_any.html#aed0b83568bbe54b9578f1e966e81d6df" title="CScriptAny::ReleaseAllHandles" alt="" coords="220,157,435,184"/>
+<area shape="rect" id="node5" href="$class_c_script_any.html#aa0f632d704d4e89d31049777526356c6" title="CScriptAny::CScriptAny" alt="" coords="483,81,652,108"/>
+<area shape="rect" id="node6" href="$class_c_script_any.html#a82ea775ef3afbdf31d23b029dd02bb5c" title="CScriptAny::Store" alt="" coords="500,132,635,159"/>
+</map>

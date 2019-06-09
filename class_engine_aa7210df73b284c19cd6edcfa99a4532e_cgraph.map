@@ -1,0 +1,8 @@
+<map id="Engine::increaseHeight" name="Engine::increaseHeight">
+<area shape="rect" id="node2" href="$class_map.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="223,5,376,32"/>
+<area shape="rect" id="node3" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="863,29,1013,70"/>
+<area shape="rect" id="node4" href="$class_map.html#a05e7d896dc5062af07c9b838600a068d" title="Demolish a node Invokes the tiles demolish function. " alt="" coords="424,36,573,63"/>
+<area shape="rect" id="node5" href="$class_map_layers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="627,99,809,125"/>
+<area shape="rect" id="node6" href="$class_resources_manager.html#ad84710588e607e440931c6956a14aac7" title="ResourcesManager::getTile\lSurface" alt="" coords="621,150,815,191"/>
+<area shape="rect" id="node7" href="$namespacegw.html#a08d2b477e040c28d652a649fa7f563e9" title="gw::id" alt="" coords="909,157,967,184"/>
+</map>

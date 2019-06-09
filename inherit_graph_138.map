@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_u_i_element.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="5,208,93,235"/>
+<area shape="rect" id="node2" href="$class_bar.html" title="Bar" alt="" coords="171,5,215,32"/>
+<area shape="rect" id="node3" href="$class_button.html" title="Button" alt="" coords="161,56,226,83"/>
+<area shape="rect" id="node4" href="$class_button_group.html" title="Class to group buttons and to make sure there&#39;s only one active toggle button in the group When addin..." alt="" coords="141,107,245,133"/>
+<area shape="rect" id="node5" href="$class_checkbox.html" title="Checkbox" alt="" coords="151,157,235,184"/>
+<area shape="rect" id="node6" href="$class_combo_box.html" title="ComboBox" alt="" coords="147,208,239,235"/>
+<area shape="rect" id="node7" href="$class_frame.html" title="Frame" alt="" coords="162,259,225,285"/>
+<area shape="rect" id="node8" href="$class_image.html" title="Image" alt="" coords="162,309,225,336"/>
+<area shape="rect" id="node9" href="$class_text.html" title="Text" alt="" coords="170,360,217,387"/>
+<area shape="rect" id="node11" href="$class_text_field.html" title="TextField" alt="" coords="156,411,231,437"/>
+<area shape="rect" id="node10" href="$class_tooltip.html" title="Tooltip" alt="" coords="293,360,356,387"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="/home/travis/build/JimmySnails/Cytopia/src/engine/ui/basics/Layout.cxx" name="/home/travis/build/JimmySnails/Cytopia/src/engine/ui/basics/Layout.cxx">
+<area shape="rect" id="node2" href="$_layout_8hxx.html" title="Layout.hxx" alt="" coords="1749,348,1840,375"/>
+<area shape="rect" id="node22" href="$_l_o_g_8hxx.html" title="../../basics/LOG.hxx" alt="" coords="213,423,355,449"/>
+<area shape="rect" id="node27" href="$_settings_8hxx.html" title="../../basics/Settings.hxx" alt="" coords="1953,572,2122,599"/>
+<area shape="rect" id="node28" href="$_u_i_manager_8hxx.html" title="../../UIManager.hxx" alt="" coords="1271,124,1411,151"/>
+<area shape="rect" id="node3" href="$_u_i_element_8hxx.html" title="UIElement.hxx" alt="" coords="1211,423,1325,449"/>
+<area shape="rect" id="node5" href="$map_edit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="1369,647,1538,673"/>
+<area shape="rect" id="node6" href="$_resources_manager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="1029,497,1221,524"/>
+<area shape="rect" id="node14" href="$_window_manager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="1411,497,1586,524"/>
+<area shape="rect" id="node16" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="678,497,831,524"/>
+<area shape="rect" id="node10" href="$_tile_manager_8hxx.html" title="TileManager.hxx" alt="" coords="1214,572,1338,599"/>
+<area shape="rect" id="node11" href="$tile_data_8hxx.html" title="basics/tileData.hxx" alt="" coords="1202,647,1345,673"/>
+<area shape="rect" id="node13" href="$_singleton_8hxx.html" title="../util/Singleton.hxx" alt="" coords="1673,647,1815,673"/>
+<area shape="rect" id="node29" href="$_button_8hxx.html" title="ui/widgets/Button.hxx" alt="" coords="1306,273,1465,300"/>
+<area shape="rect" id="node30" href="$_text_8hxx.html" title="Text.hxx" alt="" coords="1306,348,1379,375"/>
+<area shape="rect" id="node31" href="$_frame_8hxx.html" title="ui/widgets/Frame.hxx" alt="" coords="732,348,887,375"/>
+<area shape="rect" id="node32" href="$_text_field_8hxx.html" title="ui/widgets/TextField.hxx" alt="" coords="1063,273,1231,300"/>
+<area shape="rect" id="node33" href="$_tooltip_8hxx.html" title="ui/widgets/Tooltip.hxx" alt="" coords="833,273,988,300"/>
+<area shape="rect" id="node36" href="$_checkbox_8hxx.html" title="ui/widgets/Checkbox.hxx" alt="" coords="1497,199,1674,225"/>
+<area shape="rect" id="node37" href="$_combobox_8hxx.html" title="ui/widgets/Combobox.hxx" alt="" coords="923,199,1107,225"/>
+<area shape="rect" id="node38" href="$_button_group_8hxx.html" title="ui/basics/ButtonGroup.hxx" alt="" coords="1181,199,1371,225"/>
+<area shape="rect" id="node34" href="$_timer_8hxx.html" title="../../basics/Timer.hxx" alt="" coords="455,423,606,449"/>
+</map>

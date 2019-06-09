@@ -1,0 +1,7 @@
+<map id="UIElement::drawFrame" name="UIElement::drawFrame">
+<area shape="rect" id="node2" href="$class_button.html#a6b08fa54560842dec2eabed9a93c3103" title="Button::drawImageButtonFrame" alt="" coords="220,35,447,61"/>
+<area shape="rect" id="node6" href="$class_frame.html#af8abf245526132e86ee984601a71267a" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="283,85,383,112"/>
+<area shape="rect" id="node3" href="$class_menu_group_build.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="495,5,725,32"/>
+<area shape="rect" id="node4" href="$class_u_i_manager.html#ae408c7d3e00cf7f9b64627d0e69cf31b" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="513,57,707,98"/>
+<area shape="rect" id="node5" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="773,64,1004,91"/>
+</map>

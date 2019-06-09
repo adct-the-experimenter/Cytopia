@@ -1,0 +1,6 @@
+<map id="RegisterScriptFile_Native" name="RegisterScriptFile_Native">
+<area shape="rect" id="node2" href="$scriptfile_8cpp.html#a09275ca1e5cd0450c8d079ab286243f4" title="ScriptFile_Factory" alt="" coords="187,5,319,32"/>
+<area shape="rect" id="node3" href="$class_c_script_dictionary.html#a1ec9cd54b6a9e88996facefa51b566b3" title="CScriptDictionary::\lAddRef" alt="" coords="184,57,323,98"/>
+<area shape="rect" id="node4" href="$class_c_script_dictionary.html#a436cb89325b6d4cae13f4ddb8d3765e4" title="CScriptDictionary::\lRelease" alt="" coords="184,122,323,163"/>
+<area shape="rect" id="node5" href="$class_c_script_dictionary.html#ab113e3bbc6ed9b584b00fb0c30a413b7" title="CScriptDictionary::\lGetSize" alt="" coords="184,187,323,229"/>
+</map>

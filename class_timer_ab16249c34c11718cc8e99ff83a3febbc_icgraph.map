@@ -1,0 +1,4 @@
+<map id="Timer::getElapsedTimeSinceLastTimeOut" name="Timer::getElapsedTimeSinceLastTimeOut">
+<area shape="rect" id="node2" href="$class_timer.html#ab887910601a1a42b2549c99892653921" title="Timer::checkTimeout" alt="" coords="256,13,411,39"/>
+<area shape="rect" id="node3" href="$class_timer.html#ae6d9bf74a35a78b0d9bf81d2d573f03d" title="Timer::loopTimer" alt="" coords="459,13,588,39"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CScriptHandle::ReleaseHandle" name="CScriptHandle::ReleaseHandle">
+<area shape="rect" id="node2" href="$class_c_script_handle.html#a3628e6aac9501c9c3382144ef24a4776" title="CScriptHandle::~CScriptHandle" alt="" coords="268,27,491,54"/>
+<area shape="rect" id="node6" href="$class_c_script_handle.html#a267343c8ec222b714de6deb47a2d39e7" title="CScriptHandle::Set" alt="" coords="308,107,451,134"/>
+<area shape="rect" id="node3" href="$scripthandle_8cpp.html#a5116c2fe2f55b311e695ec4980f73a6b" title="CScriptHandle_Destruct\l_Generic" alt="" coords="571,5,746,47"/>
+<area shape="rect" id="node4" href="$scripthandle_8cpp.html#a4c0eb5911e1d39b40d9ca4bbdfa1e0ee" title="RegisterScriptHandle\l_Generic" alt="" coords="1113,125,1268,167"/>
+<area shape="rect" id="node5" href="$scripthandle_8h.html#a565e674cf134c5c5d1b0c15b1233226d" title="RegisterScriptHandle" alt="" coords="1316,133,1471,159"/>
+<area shape="rect" id="node7" href="$class_c_script_handle.html#ab0defc7df0816262bee364b85afeb630" title="CScriptHandle::operator=" alt="" coords="565,71,752,98"/>
+<area shape="rect" id="node8" href="$class_c_script_handle.html#a28086975d4fdc54bf489c528aad5b25e" title="CScriptHandle::Assign" alt="" coords="577,122,740,149"/>
+<area shape="rect" id="node12" href="$class_c_script_handle.html#a62fc23497b6d644c0d2312f95c028f46" title="CScriptHandle::ReleaseReferences" alt="" coords="539,187,779,214"/>
+<area shape="rect" id="node9" href="$class_c_script_handle.html#a896b317b74d595bee6b790f9ae03283d" title="CScriptHandle::CScriptHandle" alt="" coords="840,63,1052,90"/>
+<area shape="rect" id="node10" href="$scripthandle_8cpp.html#abf65d893951791abc272e367eb035c67" title="RegisterScriptHandle\l_Native" alt="" coords="869,180,1023,221"/>
+<area shape="rect" id="node11" href="$scripthandle_8cpp.html#a0be436efbb15a98a376520aa00583deb" title="CScriptHandle_AssignVar\l_Generic" alt="" coords="855,115,1037,156"/>
+<area shape="rect" id="node13" href="$scripthandle_8cpp.html#a7710b8b39f1e870246f5b41063e7655b" title="CScriptHandle_ReleaseReferences\l_Generic" alt="" coords="827,245,1065,287"/>
+</map>

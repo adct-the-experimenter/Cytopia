@@ -1,0 +1,4 @@
+<map id="MapNodeData" name="MapNodeData">
+<area shape="rect" id="node2" href="$struct_tile_data.html" title="TileData" alt="" coords="25,124,100,151"/>
+<area shape="rect" id="node3" href="$struct_tile_set_data.html" title="TileSetData" alt="" coords="15,5,111,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Engine::saveGame" name="Engine::saveGame">
+<area shape="rect" id="node2" href="$class_map.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="196,9,343,36"/>
+<area shape="rect" id="node4" href="$class_engine.html#a260d4834150eae6eec2bde34df6dc827" title="Engine::newGame" alt="" coords="201,64,338,91"/>
+<area shape="rect" id="node3" href="$compression_8hxx.html#a2b136078ca5d23222e9c24092a9918fa" title="Compress a given string with zlib Compress the given string. Returns an empty string if something wen..." alt="" coords="405,5,527,32"/>
+<area shape="rect" id="node5" href="$class_singleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="391,57,541,98"/>
+<area shape="rect" id="node6" href="$class_map.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="415,123,517,149"/>
+<area shape="rect" id="node7" href="$class_map_layers.html#a54ce1eeef2a8998a728ac7074efe8787" title="Enable Drawing Layer Enable Drawing Layer (use bitwise OR to add layer) " alt="" coords="598,93,775,120"/>
+<area shape="rect" id="node8" href="$class_terrain_generator.html#adcc251757a1f3a06471a49f17886b8ce" title="TerrainGenerator::generate\lTerrain" alt="" coords="589,145,784,186"/>
+<area shape="rect" id="node9" href="$class_terrain_generator.html#ac94cfaeb9dc89453018399361da5174a" title="TerrainGenerator::loadTerrain\lDataFromJSON" alt="" coords="832,145,1039,186"/>
+</map>

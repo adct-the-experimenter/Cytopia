@@ -11,6 +11,7 @@ option(BUILD_TEST "Build Cytopia Tests" ON)
 option(USE_PACKAGE_MANAGER "Use conan for managing packages" ON)
 option(ENABLE_SDL2_MIXER "Enable SDL2 Mixer" ON)
 option(ENABLE_OPENAL_SOFT "Enable OpenAL Soft" ON)
+option(ENABLE_SDL_SOUND "Enable SDL Sound" ON)
 option(ENABLE_MICROPROFILE "Enable microprofile" OFF)
 option(ENABLE_ANGELSCRIPT "Enable AngelScript" ON)
 option(ENABLE_MOFILEREADER "Enable MofileReader" ON)
@@ -21,6 +22,10 @@ endif ()
 
 if (NOT ENABLE_OPENAL_SOFT)
     set(_CC_OPENAL_SOFT "# ")
+endif ()
+
+if (NOT ENABLE_SDL_SOUND)
+    set(_CC_SDL_SOUND "# ")
 endif ()
 
 if (NOT BUILD_TEST)
@@ -106,7 +111,11 @@ if (USE_PACKAGE_MANAGER)
     if (ENABLE_OPENAL_SOFT)
         list(APPEND _link_libraries CONAN_PKG::openal)
     endif ()
-
+	
+	if (ENABLE_SDL_SOUND)
+        list(APPEND _link_libraries CONAN_PKG::sdl_sound)
+    endif ()
+    
     if (ENABLE_ANGELSCRIPT)
         list(APPEND _link_libraries CONAN_PKG::AngelScript)
     endif ()
@@ -129,6 +138,10 @@ else (USE_PACKAGE_MANAGER)
 
     if (ENABLE_SDL2_MIXER)
         pkg_check_modules(SDL2_mixer REQUIRED SDL2_mixer)
+    endif ()
+    
+    if (ENABLE_SDL_SOUND)
+        pkg_check_modules(SDL_sound REQUIRED SDL_sound)
     endif ()
     
     if (ENABLE_OPENAL_SOFT)
@@ -168,6 +181,10 @@ else (USE_PACKAGE_MANAGER)
         list(APPEND _link_libraries ${SDL2_mixer_LIBRARIES})
     endif ()
     
+    if (ENABLE_SDL_SOUND)
+        list(APPEND _link_libraries ${SDL_sound_LIBRARIES})
+    endif ()
+    
     if (ENABLE_OPENAL_SOFT)
         list(APPEND _link_libraries ${openal_LIBRARIES})
     endif ()
@@ -202,6 +219,11 @@ endif ()
 if (ENABLE_SDL2_MIXER)
     list(APPEND _compile_definitions USE_SDL2_MIXER)
 endif ()
+
+if (ENABLE_SDL_SOUND)
+    list(APPEND _compile_definitions USE_SDL_SOUND)
+endif ()
+
 
 if (ENABLE_OPENAL_SOFT)
     list(APPEND _compile_definitions USE_OPENAL_SOFT)
